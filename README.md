@@ -14,25 +14,7 @@
 
 *Transform your CSV data into meaningful insights with AI-powered analysis and beautiful visualizations*
 
-[🚀 **Get Started**](#-quick-start) • [📖 **Documentation**](#-features) • [🤝 **Contributing**](#-contributing) • [💬 **Support**](#-support)
-
 </div>
-
-## 📋 Table of Contents
-
-- [✨ Features](#-features)
-- [🎯 What Makes Analyzia Special](#-what-makes-analyzia-special)
-- [🖼️ Screenshots](#️-screenshots)
-- [🚀 Quick Start](#-quick-start)
-- [⚙️ Installation](#️-installation)
-- [🔧 Configuration](#-configuration)
-- [📊 Usage Examples](#-usage-examples)
-- [🏗️ Architecture](#️-architecture)
-- [🛠️ Technology Stack](#️-technology-stack)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [💬 Support](#-support)
-- [🙏 Acknowledgments](#-acknowledgments)
 
 ## ✨ Features
 
